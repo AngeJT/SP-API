@@ -1,0 +1,1 @@
+实验实现与Amazon Appstore身份授权集成，与Amazon Selling Partner API 集成，需要提前准备以下环境
